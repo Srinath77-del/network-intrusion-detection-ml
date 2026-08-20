@@ -62,3 +62,41 @@ Validation
 Hyperparameter Optimization
         ↓
 Final Analysis
+## Internship Progress
+
+### Week 2 – Data Preprocessing and Feature Engineering
+
+Week 2 focuses on understanding and preparing the UNSW-NB15 dataset for machine learning.
+
+#### Completed Analysis
+
+- Dataset structure and feature analysis
+- Missing-value analysis
+- Duplicate-row analysis
+- Target variable analysis
+- Categorical feature analysis
+- Numerical feature analysis
+- Outlier analysis
+- Correlation analysis
+- Feature redundancy analysis
+- Target leakage prevention
+- Feature selection
+- One-hot encoding
+- Preprocessing pipeline
+
+#### Week 2 Files
+
+- [Week 2 Preprocessing Notebook](./UNSW_NB15_Preprocessing.ipynb)
+- [Week 2 Report](./Srinath_week-02.docx)
+- [Week 2 Documentation](./Week-2-Data-Preprocessing/README.md)
+
+### Project Status
+
+| Week | Status |
+|---|---|
+| Week 1 – Project Planning | Completed |
+| Week 2 – Data Preprocessing | Completed |
+| Week 3 – Model Implementation | Upcoming |
+| Week 4 – Model Evaluation | Upcoming |
+| Week 5 – Model Optimization | Upcoming |
+| Week 6 – Final Report | Upcoming |
