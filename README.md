@@ -99,4 +99,4 @@ Week 2 focuses on understanding and preparing the UNSW-NB15 dataset for machine 
 | Week 3 – Model Implementation | Completed |
 | Week 4 – Model Evaluation | Completed |
 | Week 5 – Model Optimization | Completed |
-| Week 6 – Final Report | Upcoming |
+| Week 6 – Final Report | Completed |
